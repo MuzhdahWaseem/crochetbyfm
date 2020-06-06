@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+/* body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #FFCDD2;
+} */
+
+.container{
+    /* width: 100%;
+    max-width: 680px; */
+    margin: 100px auto 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10%;
+}
+.contact-form{
+    position: absolute !important;
+    top: 50% !important;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 85%;
+    max-width: 600px;
+
+}
+/* .contact{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+
+} */
+.form{
+    width: 100%;
+    margin: 25px 0;
+}
+.top-form ,.middle-form ,.bottom.form{
+    width: 100%;
+    min-height: 65px;
+    margin: 10px 0;
+    overflow: hidden
+}
+
+.navbar-light .navbar-toggler{
+    position: absolute;
+    right: 7%;
+}
+.logo{
+    width: 50%;
+    height: 25%;
+    margin-left: 7%;
+
+}
+/* .dropdown-menu{
+    border: none !important;
+} */
+.dropdown-item ,.nav-link{
+    border-radius: 50px !important;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* text-align: center; */
+    
+}
+.nav-link:hover{
+    text-align: center;
+    background-color: black !important;
+    color: #FFCDD2 !important;
+}
+.fa-user{
+    font-size: large !important;
+    /* margin-top: 7% !important;
+    position: absolute;
+    left: 5%;
+    bottom: 9%; */
+}
+.fa-shopping-cart{
+    font-size: large !important;
+    /* margin-top: 7% !important;
+    position: absolute;
+    left: 5%;
+    bottom: 1%; */
+}
+.image{
+    width: auto;
+    height: 50% !important;
+}
+.link{
+    color: black;
+    text-decoration: none !important;
+}
+.link:hover{
+    color: #FFCDD2;
+}
+.text{
+    /* transition: transform .3s !important; */
+    margin-bottom: -5;
+}
+/* .text:hover ,.btn:hover {
+    transform: scale(1.5);
+} */
+.h-text{
+    text-align: center;
+    /* font-size: large; */
+    /* font-weight: bold; */
+    /* margin-left: 7%; */
+    margin-top: 5%;
+    /* margin-bottom: 5%; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.top{
+     margin-top: 5%;
+     margin-bottom: 5%; 
+}
+/* .c-2{
+    margin: 3%;
+} */
+.row{
+    text-align: center;
+  
+}
+.totebag , .clutch ,.pouch ,.purses ,.backpack{
+    width: 80%;
+    height: 50%;
+}
+.u-f{
+    margin: 5%;
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 2%;
+}
+.title{
+    /* font-size: medium; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-weight: bold; */
+    margin-top: 2%;
+}
+.btn{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.info{
+    margin: 5% 10%;
+    justify-content: center;
+}
+.icon{
+    width: 2.75%;
+    margin: 2%;
+
+}
+.about{
+    margin-top: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.icon1{
+    width: 5%;
+}
+/* .container{
+    float: left;
+    width: 100% !important;
+
+} */
+/* .footer-logo{
+    width: 8%;
+    margin-bottom: 5%; 
+    margin-right: 5%
+}
+.footer-logo1{
+    width: 15%;
+    margin-bottom: 5%; 
+    margin-right: 5%
+}
+.contact-img{
+    width: 50%;
+    height: 40% !important;
+} */
+.copyright{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-weight: bold; */
+    margin: 5%;
+    background-color: #FFCDD2;
+    /* width: 250% !important; */
+    /* max-width: 200% !important; */
+}
+
